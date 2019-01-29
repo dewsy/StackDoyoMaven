@@ -1,2 +1,2 @@
-public class StackOverflow extends Exception {
+public class StackOverflow extends RuntimeException {
 }

@@ -1,4 +1,4 @@
-public class StackUnderflow extends Exception {
+public class StackUnderflow extends RuntimeException {
 
 
 }
